@@ -1,7 +1,7 @@
 # Личный проект «YetiCave»
 
 * Студент: [Veronika  Travkova](https://up.htmlacademy.ru/php/12/user/1008871).
-* Наставник: `Неизвестно`.
+* Наставник: [Анна Смоленцева].
 
 ---
 
